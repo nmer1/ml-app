@@ -12,3 +12,4 @@ lime
 flaml
 plotly
 statsmodels
+nbformat
